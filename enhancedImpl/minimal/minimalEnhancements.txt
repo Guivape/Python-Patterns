@@ -1,0 +1,4 @@
+Adapter
+Bridge
+Template Method
+Mediator
